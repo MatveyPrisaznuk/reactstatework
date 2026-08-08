@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Taylor Swift",
+    "gender": "female",
+    "country": "USA",
+    "genre": "Pop",
+    "birthYear": 1989,
+    "albums": 11,
+    "isActive": true,
+    "awards": 14
+  },
+  {
+    "id": 2,
+    "name": "Ed Sheeran",
+    "gender": "male",
+    "country": "United Kingdom",
+    "genre": "Pop",
+    "birthYear": 1991,
+    "albums": 7,
+    "isActive": true,
+    "awards": 8
+  },
+  {
+    "id": 3,
+    "name": "Adele",
+    "gender": "female",
+    "country": "United Kingdom",
+    "genre": "Pop",
+    "birthYear": 1988,
+    "albums": 4,
+    "isActive": true,
+    "awards": 16
+  },
+  {
+    "id": 4,
+    "name": "The Weeknd",
+    "gender": "male",
+    "country": "Canada",
+    "genre": "R&B",
+    "birthYear": 1990,
+    "albums": 6,
+    "isActive": true,
+    "awards": 7
+  },
+  {
+    "id": 5,
+    "name": "Beyoncé",
+    "gender": "female",
+    "country": "USA",
+    "genre": "R&B",
+    "birthYear": 1981,
+    "albums": 7,
+    "isActive": true,
+    "awards": 32
+  },
+  {
+    "id": 6,
+    "name": "Bruno Mars",
+    "gender": "male",
+    "country": "USA",
+    "genre": "Pop",
+    "birthYear": 1985,
+    "albums": 3,
+    "isActive": true,
+    "awards": 15
+  },
+  {
+    "id": 7,
+    "name": "Lady Gaga",
+    "gender": "female",
+    "country": "USA",
+    "genre": "Pop",
+    "birthYear": 1986,
+    "albums": 8,
+    "isActive": true,
+    "awards": 13
+  },
+  {
+    "id": 8,
+    "name": "Justin Bieber",
+    "gender": "male",
+    "country": "Canada",
+    "genre": "Pop",
+    "birthYear": 1994,
+    "albums": 6,
+    "isActive": true,
+    "awards": 8
+  },
+  {
+    "id": 9,
+    "name": "Rihanna",
+    "gender": "female",
+    "country": "Barbados",
+    "genre": "Pop",
+    "birthYear": 1988,
+    "albums": 8,
+    "isActive": false,
+    "awards": 9
+  },
+  {
+    "id": 10,
+    "name": "Harry Styles",
+    "gender": "male",
+    "country": "United Kingdom",
+    "genre": "Pop Rock",
+    "birthYear": 1994,
+    "albums": 3,
+    "isActive": true,
+    "awards": 6
+  },
+  {
+    "id": 11,
+    "name": "Dua Lipa",
+    "gender": "female",
+    "country": "United Kingdom",
+    "genre": "Pop",
+    "birthYear": 1995,
+    "albums": 3,
+    "isActive": true,
+    "awards": 7
+  },
+  {
+    "id": 12,
+    "name": "Post Malone",
+    "gender": "male",
+    "country": "USA",
+    "genre": "Hip-Hop",
+    "birthYear": 1995,
+    "albums": 6,
+    "isActive": true,
+    "awards": 5
+  },
+  {
+    "id": 13,
+    "name": "Billie Eilish",
+    "gender": "female",
+    "country": "USA",
+    "genre": "Alternative Pop",
+    "birthYear": 2001,
+    "albums": 3,
+    "isActive": true,
+    "awards": 9
+  },
+  {
+    "id": 14,
+    "name": "Shawn Mendes",
+    "gender": "male",
+    "country": "Canada",
+    "genre": "Pop",
+    "birthYear": 1998,
+    "albums": 5,
+    "isActive": true,
+    "awards": 4
+  },
+  {
+    "id": 15,
+    "name": "Selena Gomez",
+    "gender": "female",
+    "country": "USA",
+    "genre": "Pop",
+    "birthYear": 1992,
+    "albums": 3,
+    "isActive": true,
+    "awards": 6
+  },
+  {
+    "id": 16,
+    "name": "Sam Smith",
+    "gender": "non-binary",
+    "country": "United Kingdom",
+    "genre": "Pop",
+    "birthYear": 1992,
+    "albums": 4,
+    "isActive": true,
+    "awards": 7
+  },
+  {
+    "id": 17,
+    "name": "Ariana Grande",
+    "gender": "female",
+    "country": "USA",
+    "genre": "Pop",
+    "birthYear": 1993,
+    "albums": 7,
+    "isActive": true,
+    "awards": 12
+  },
+  {
+    "id": 18,
+    "name": "Chris Brown",
+    "gender": "male",
+    "country": "USA",
+    "genre": "R&B",
+    "birthYear": 1989,
+    "albums": 11,
+    "isActive": true,
+    "awards": 8
+  },
+  {
+    "id": 19,
+    "name": "Katy Perry",
+    "gender": "female",
+    "country": "USA",
+    "genre": "Pop",
+    "birthYear": 1984,
+    "albums": 6,
+    "isActive": true,
+    "awards": 5
+  },
+  {
+    "id": 20,
+    "name": "David Guetta",
+    "gender": "male",
+    "country": "France",
+    "genre": "Electronic",
+    "birthYear": 1967,
+    "albums": 7,
+    "isActive": true,
+    "awards": 10
+  }
+]
